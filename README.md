@@ -10,7 +10,7 @@ This Currency Exchange Calculator is a web application developed using HTML, CSS
 - **Customizable Display**: Users can customize the display by selecting the base and target currencies, inputting the desired amount, and instantly viewing the converted amount.
 
 ## Usage
-1. **Accessing the Calculator**: [Visit the Currency Exchange Calculator](#) hosted on GitHub Pages or clone the repository to run it locally.
+1. **Accessing the Calculator**: [[Visit the Currency Exchange Calculator](https://cogitosnippet.github.io/Currency-Exchange-Calculator/)](#) hosted on GitHub Pages or clone the repository to run it locally.
 2. **Select Base Currency**: Choose the currency you wish to convert from using the dropdown menu.
 3. **Choose Target Currency**: Select the currency you want to convert to from the dropdown menu.
 4. **Enter Amount**: Input the amount you want to convert in the provided field.
