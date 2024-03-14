@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currency Convertor</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h2>Currency Convertor</h2>
+      <form>
+        <div class="amount-div">
+          <p class="amount-para">Enter Amount</p>
+          <input type="text" value="1" id="amount" pattern="[0-9]+">
+        </div>
+
+        <div class="from-to">
+          <div>
+            <p class="from-para">From</p>
+            <div class="from">
+              <img src="https://flagsapi.com/US/flat/64.png" id="from-img">
+              <select name="drop-down" id="from-drop">
+              <option>INR</option>
+              <option selected>USD</option>
+            </select>
+            </div>
+          </div>
+          <img src="icons8-convert-50.png">
+          <div>
+            <p class="to-para">To</p>
+            <div class="to">
+              <img src="https://flagsapi.com/IN/flat/64.png" id="to-img">
+              <select name="drop-down" id="to-drop">
+              <option selected>INR</option>
+              <option>USD</option>
+            </select>
+            </div>
+          </div>
+        </div>
+
+        <div id="msg"></div>
+      </form>
+      <div class="button-div"> 
+        <button id="but-id" class="but">Get Exchange Rate</button>
+      </div>
+    </div>
+  </div>  
+  <script src="codes.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
