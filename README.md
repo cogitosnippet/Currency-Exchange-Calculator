@@ -14,7 +14,7 @@ This Currency Exchange Calculator is a web application developed using HTML, CSS
 2. **Select Base Currency**: Choose the currency you wish to convert from using the dropdown menu.
 3. **Choose Target Currency**: Select the currency you want to convert to from the dropdown menu.
 4. **Enter Amount**: Input the amount you want to convert in the provided field.
-5. **View Conversion**: Instantly view the converted amount in the target currency.
+5. **View Conversion**: Instantly view the converted amount in the target currency..
 
 
 ## Credits
