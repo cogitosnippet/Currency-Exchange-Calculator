@@ -6,7 +6,7 @@ This Currency Exchange Calculator is a web application developed using HTML, CSS
 ## Features
 - **Simple Interface**: The calculator provides an intuitive and user-friendly interface for easy navigation and currency conversion.
 - **Real-Time Exchange Rates**: Utilizing the FXRate API, the calculator fetches up-to-date exchange rates to ensure accurate conversions.
-- **Support for 150+ Currencies**: With a wide range of supported currencies, users can convert between various global currencies effortlessly.
+- **Support for 150+ Currencies**: With a wide range of supported currencies, users can convert between various global currencies effortlessly..
 - **Customizable Display**: Users can customize the display by selecting the base and target currencies, inputting the desired amount, and instantly viewing the converted amount.
 
 ## Usage
